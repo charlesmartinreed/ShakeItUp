@@ -14,6 +14,19 @@
 		8CAA26E921503CBF00BB4992 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8CAA26E721503CBF00BB4992 /* LaunchScreen.storyboard */; };
 		8CAA26F421503CBF00BB4992 /* ShakeItUpTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8CAA26F321503CBF00BB4992 /* ShakeItUpTests.swift */; };
 		8CAA26FF21503CBF00BB4992 /* ShakeItUpUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8CAA26FE21503CBF00BB4992 /* ShakeItUpUITests.swift */; };
+		8CAA271A21503D1400BB4992 /* sound8.wav in Resources */ = {isa = PBXBuildFile; fileRef = 8CAA270D21503D1300BB4992 /* sound8.wav */; };
+		8CAA271B21503D1400BB4992 /* sound9.wav in Resources */ = {isa = PBXBuildFile; fileRef = 8CAA270E21503D1300BB4992 /* sound9.wav */; };
+		8CAA271C21503D1400BB4992 /* sound13.wav in Resources */ = {isa = PBXBuildFile; fileRef = 8CAA270F21503D1300BB4992 /* sound13.wav */; };
+		8CAA271D21503D1400BB4992 /* sound2.wav in Resources */ = {isa = PBXBuildFile; fileRef = 8CAA271021503D1300BB4992 /* sound2.wav */; };
+		8CAA271E21503D1400BB4992 /* sound3.wav in Resources */ = {isa = PBXBuildFile; fileRef = 8CAA271121503D1300BB4992 /* sound3.wav */; };
+		8CAA271F21503D1400BB4992 /* sound12.wav in Resources */ = {isa = PBXBuildFile; fileRef = 8CAA271221503D1300BB4992 /* sound12.wav */; };
+		8CAA272021503D1400BB4992 /* sound10.wav in Resources */ = {isa = PBXBuildFile; fileRef = 8CAA271321503D1300BB4992 /* sound10.wav */; };
+		8CAA272121503D1400BB4992 /* sound1.wav in Resources */ = {isa = PBXBuildFile; fileRef = 8CAA271421503D1300BB4992 /* sound1.wav */; };
+		8CAA272221503D1400BB4992 /* sound11.wav in Resources */ = {isa = PBXBuildFile; fileRef = 8CAA271521503D1300BB4992 /* sound11.wav */; };
+		8CAA272321503D1400BB4992 /* sound4.wav in Resources */ = {isa = PBXBuildFile; fileRef = 8CAA271621503D1300BB4992 /* sound4.wav */; };
+		8CAA272421503D1400BB4992 /* sound5.wav in Resources */ = {isa = PBXBuildFile; fileRef = 8CAA271721503D1300BB4992 /* sound5.wav */; };
+		8CAA272521503D1400BB4992 /* sound7.wav in Resources */ = {isa = PBXBuildFile; fileRef = 8CAA271821503D1300BB4992 /* sound7.wav */; };
+		8CAA272621503D1400BB4992 /* sound6.wav in Resources */ = {isa = PBXBuildFile; fileRef = 8CAA271921503D1300BB4992 /* sound6.wav */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +60,19 @@
 		8CAA26FA21503CBF00BB4992 /* ShakeItUpUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ShakeItUpUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		8CAA26FE21503CBF00BB4992 /* ShakeItUpUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShakeItUpUITests.swift; sourceTree = "<group>"; };
 		8CAA270021503CBF00BB4992 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		8CAA270D21503D1300BB4992 /* sound8.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = sound8.wav; sourceTree = "<group>"; };
+		8CAA270E21503D1300BB4992 /* sound9.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = sound9.wav; sourceTree = "<group>"; };
+		8CAA270F21503D1300BB4992 /* sound13.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = sound13.wav; sourceTree = "<group>"; };
+		8CAA271021503D1300BB4992 /* sound2.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = sound2.wav; sourceTree = "<group>"; };
+		8CAA271121503D1300BB4992 /* sound3.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = sound3.wav; sourceTree = "<group>"; };
+		8CAA271221503D1300BB4992 /* sound12.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = sound12.wav; sourceTree = "<group>"; };
+		8CAA271321503D1300BB4992 /* sound10.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = sound10.wav; sourceTree = "<group>"; };
+		8CAA271421503D1300BB4992 /* sound1.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = sound1.wav; sourceTree = "<group>"; };
+		8CAA271521503D1300BB4992 /* sound11.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = sound11.wav; sourceTree = "<group>"; };
+		8CAA271621503D1300BB4992 /* sound4.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = sound4.wav; sourceTree = "<group>"; };
+		8CAA271721503D1300BB4992 /* sound5.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = sound5.wav; sourceTree = "<group>"; };
+		8CAA271821503D1300BB4992 /* sound7.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = sound7.wav; sourceTree = "<group>"; };
+		8CAA271921503D1300BB4992 /* sound6.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = sound6.wav; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,6 +127,7 @@
 				8CAA26E021503CBE00BB4992 /* ViewController.swift */,
 				8CAA26E221503CBE00BB4992 /* Main.storyboard */,
 				8CAA26E521503CBF00BB4992 /* Assets.xcassets */,
+				8CAA270C21503D1300BB4992 /* soundFXs */,
 				8CAA26E721503CBF00BB4992 /* LaunchScreen.storyboard */,
 				8CAA26EA21503CBF00BB4992 /* Info.plist */,
 			);
@@ -123,6 +150,26 @@
 				8CAA270021503CBF00BB4992 /* Info.plist */,
 			);
 			path = ShakeItUpUITests;
+			sourceTree = "<group>";
+		};
+		8CAA270C21503D1300BB4992 /* soundFXs */ = {
+			isa = PBXGroup;
+			children = (
+				8CAA270D21503D1300BB4992 /* sound8.wav */,
+				8CAA270E21503D1300BB4992 /* sound9.wav */,
+				8CAA270F21503D1300BB4992 /* sound13.wav */,
+				8CAA271021503D1300BB4992 /* sound2.wav */,
+				8CAA271121503D1300BB4992 /* sound3.wav */,
+				8CAA271221503D1300BB4992 /* sound12.wav */,
+				8CAA271321503D1300BB4992 /* sound10.wav */,
+				8CAA271421503D1300BB4992 /* sound1.wav */,
+				8CAA271521503D1300BB4992 /* sound11.wav */,
+				8CAA271621503D1300BB4992 /* sound4.wav */,
+				8CAA271721503D1300BB4992 /* sound5.wav */,
+				8CAA271821503D1300BB4992 /* sound7.wav */,
+				8CAA271921503D1300BB4992 /* sound6.wav */,
+			);
+			path = soundFXs;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -229,9 +276,22 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8CAA271B21503D1400BB4992 /* sound9.wav in Resources */,
 				8CAA26E921503CBF00BB4992 /* LaunchScreen.storyboard in Resources */,
+				8CAA272221503D1400BB4992 /* sound11.wav in Resources */,
+				8CAA271E21503D1400BB4992 /* sound3.wav in Resources */,
+				8CAA271C21503D1400BB4992 /* sound13.wav in Resources */,
+				8CAA272621503D1400BB4992 /* sound6.wav in Resources */,
 				8CAA26E621503CBF00BB4992 /* Assets.xcassets in Resources */,
+				8CAA271D21503D1400BB4992 /* sound2.wav in Resources */,
 				8CAA26E421503CBE00BB4992 /* Main.storyboard in Resources */,
+				8CAA272421503D1400BB4992 /* sound5.wav in Resources */,
+				8CAA272021503D1400BB4992 /* sound10.wav in Resources */,
+				8CAA272521503D1400BB4992 /* sound7.wav in Resources */,
+				8CAA271A21503D1400BB4992 /* sound8.wav in Resources */,
+				8CAA271F21503D1400BB4992 /* sound12.wav in Resources */,
+				8CAA272121503D1400BB4992 /* sound1.wav in Resources */,
+				8CAA272321503D1400BB4992 /* sound4.wav in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
